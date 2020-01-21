@@ -1,7 +1,7 @@
 package Zoo;
 
 public class Zoo {
-
+/*
       void conserveAnimal(String animal, int nrConserve){
 
         switch (nrConserve){
@@ -25,7 +25,7 @@ public class Zoo {
     public static void main(String[] args) {
           Zoo zoo= new Zoo(); //instantierea clasei pentru a folosi metodele din ea (doar fara a folosi "static")
 
-        Animal pisica= new Animal("pisica", 1);
+      /*  Animal pisica= new Animal("pisica", 1);
        // pisica.setNume("pisica");
       //  pisica.nume= "pisica";
         //pisica.nrConserve=3;
@@ -42,5 +42,5 @@ public class Zoo {
        // zoo.conserveAnimal(catel.nume,catel.nrConserve );
         zoo.conserveAnimal(catel.getNume(), catel.getNrConserve()); // apelarea metodei
     }
-
+*/
 }
