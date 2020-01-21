@@ -10,13 +10,13 @@ public class Zoo {
         }
     }
 
-    public static void main(String[] args) {
-    Zoo zoo = new Zoo();
-
-    Animal pisica = new Animal("pisica",3);
-    zoo.conserveAnimal(pisica.getNume(), pisica.getNrConserve());
-
-    Animal catel = new Animal("catel",1);
-    zoo.conserveAnimal(catel.getNume(), catel.getNrConserve());
-    }
+// zi   public static void main(String[] args) {
+//    Zoo zoo = new Zoo();
+//
+//    Animal pisica = new Animal("pisica",3);
+//    zoo.conserveAnimal(pisica.getNume(), pisica.getNrConserve());
+//
+//    Animal catel = new Animal("catel",1);
+//    zoo.conserveAnimal(catel.getNume(), catel.getNrConserve());
+//    }
 }

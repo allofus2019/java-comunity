@@ -1,6 +1,6 @@
 package Zoo;
 
-public class Animal {
+ public class Animal {
 
     private String nume;
 
@@ -26,5 +26,10 @@ public class Animal {
     public String getNume() {
         return nume;
     }
-
+    
+    public  void action(){
+        System.out.println("Animalul zboara");
+    }
+    
+//    abstract public void nrPicioare(int nr);
 }
