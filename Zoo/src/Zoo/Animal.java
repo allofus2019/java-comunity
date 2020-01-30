@@ -25,4 +25,6 @@ public class Animal {
         this.nrConserve = nrConserve;
     }
 
+    public void action() {
+    }
 }
